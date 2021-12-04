@@ -3,23 +3,23 @@ Online clothing Store
 
 Login Screen
 
-![image](https://github.com/Iraqoze/Us-For-You/blob/main/app/src/main/res/Screenshots/login.jpeg?raw=true)
+![image](https://github.com/Iraqoze/Fashion-Iccon/blob/main/app/src/main/res/Screenshots/login1.jpeg?raw=true)
 
-Register
+Menu
 
-![image](https://github.com/Iraqoze/Us-For-You/blob/main/app/src/main/res/Screenshots/register.jpeg?raw=true)
+![image](https://github.com/Iraqoze/Fashion-Iccon/blob/main/app/src/main/res/Screenshots/menu.jpeg?raw=true)
 
-Home
+Product
 
-![image](https://github.com/Iraqoze/Us-For-You/blob/main/app/src/main/res/Screenshots/home.jpeg?raw=true)
+![image](https://github.com/Iraqoze/Fashion-Iccon/blob/main/app/src/main/res/Screenshots/product.jpeg.jpeg?raw=true)
+
+Catalogue
+
+![image](https://github.com/Iraqoze/Fashion-Iccon/blob/main/app/src/main/res/Screenshots/cat1.jpeg?raw=true)
 
 Cart
 
-![image](https://github.com/Iraqoze/Us-For-You/blob/main/app/src/main/res/Screenshots/cart.jpeg?raw=true)
-
-Checkout
-
-![image](https://github.com/Iraqoze/Us-For-You/blob/main/app/src/main/res/Screenshots/checkout.jpeg?raw=true)
+![image](https://github.com/Iraqoze/Fashion-Iccon/blob/main/app/src/main/res/Screenshots/cart1.jpeg?raw=true)
 
 
 
